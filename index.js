@@ -1,4 +1,4 @@
-let heroi = "Link";
+let nome = "Link";
 let xp = 1000;
 
 if (xp < 1000)
